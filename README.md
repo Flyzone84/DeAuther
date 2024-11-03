@@ -65,8 +65,6 @@ git clone https://github.com/Flyzone84/DeAuther.git
 ## Running
 - Dependencies will be automatically installed.
 ```
-cd Wifi-Jammer && ls
-
 sudo bash wifi-jammer.sh
 ```
 # Demonstration
