@@ -60,7 +60,7 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 ## Clone
 
 ```
-
+git clone https://github.com/Flyzone84/DeAuther.git
 ```
 ## Running
 - Dependencies will be automatically installed.
