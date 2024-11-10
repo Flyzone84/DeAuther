@@ -67,8 +67,6 @@ git clone https://github.com/Flyzone84/DeAuther.git
 ```
 sudo bash wifi-jammer.sh
 ```
-# Demonstration
-https://youtu.be/faL-VvP2Kvc
 
 # Contact:
 
